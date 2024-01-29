@@ -1,0 +1,102 @@
+
+.b1 {
+    width: 100%;
+    height: 300px;
+    background-color: rgba(208, 234, 241, 0.96);
+    text-align: center;
+    line-height: 300px;
+    background-image: url(../image/huanying-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    position:relative;
+}
+.b2{
+    display: block;
+    width: 150px;
+    height: 100px;
+    background-color: #d8e1ff;
+    font-size: 40px;
+    color: #7bbad9;
+    text-decoration: none;
+    text-indent: 0em;
+    line-height: 100px;
+    position:absolute;
+    top:5%;
+    left: 95%;
+    margin-top: 0px;
+    margin-left: -250px;
+}
+.b2:hover{
+    background-color: #ff6700;
+}
+.b3{
+    display: block;
+    width: 150px;
+    height: 100px;
+    background-color: #d8e1ff;
+    font-size: 40px;
+    color: #7bbad9;
+    text-decoration: none;
+    text-indent: 0em;
+    line-height: 100px;
+    position:absolute;
+    top:5%;
+    left: 95%;
+    margin-top: 0px;
+    margin-left: -100px;
+}
+.b3:hover{
+    background-color: #ff6700;
+}
+
+.t1 {
+    display: flex;
+    width: 100%;
+    height: 800px;
+
+}
+
+.tt1 {
+
+    width: 25%;
+    height: 100%;
+
+}
+
+.tt2 {
+    width: 75%;
+    height: 100%;
+    background-color: rgb(211, 244, 241);
+}
+
+.u1 {
+    width: 100%;
+    height: 100px;
+    background-color: beige;
+    text-align: center;
+    line-height: 100px;
+}
+
+.niu {
+    display: block;
+    width: 100%;
+    height: 200px;
+    background-color: #d8e1ff;
+    font-size: 30px;
+    color: #7bbad9;
+    text-decoration: none;
+    text-indent: 4em;
+    line-height: 200px;
+}
+
+.niu:hover {
+    background-color: #ff6700;
+}
+
+button {
+    width: 60px;
+    height: 40px;
+    background-color: aqua;
+    font-size: 15%;
+}
